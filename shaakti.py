@@ -1,1 +1,6 @@
 print("Iam Shaakti")
+print("This code is about my resume")
+print("langs:tam,eng")
+print("course:BTech")
+print("College:ABC Eng College")
+print("DOB:5/6/7")
